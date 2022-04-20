@@ -1,0 +1,12 @@
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\TestDapperRepository.exe.config
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\TestDapperRepository.exe
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\TestDapperRepository.pdb
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\DapperRepositoryLib.dll
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\Dapper.dll
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\DapperRepositoryLib.pdb
+D:\VS_Projects\spu011Dapper\TestDapperRepository\bin\Debug\Dapper.xml
+D:\VS_Projects\spu011Dapper\TestDapperRepository\obj\Debug\TestDapperRepository.csprojAssemblyReference.cache
+D:\VS_Projects\spu011Dapper\TestDapperRepository\obj\Debug\TestDapperRepository.csproj.CoreCompileInputs.cache
+D:\VS_Projects\spu011Dapper\TestDapperRepository\obj\Debug\TestDapperRepository.csproj.CopyComplete
+D:\VS_Projects\spu011Dapper\TestDapperRepository\obj\Debug\TestDapperRepository.exe
+D:\VS_Projects\spu011Dapper\TestDapperRepository\obj\Debug\TestDapperRepository.pdb

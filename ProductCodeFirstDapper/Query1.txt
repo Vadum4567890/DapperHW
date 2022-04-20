@@ -1,0 +1,4 @@
+if not exists(select * from sys.databases where name='ProductCodeFirstDapperspu011')
+begin
+create database ProductCodeFirstDapperspu011 on (name=ProductCodeFirstDapperspu011,filename='D:\VS_Projects\spu011Dapper\ProductCodeFirstDapper\bin\Debug\ProductCodeFirstDapperspu011.mdf')
+end

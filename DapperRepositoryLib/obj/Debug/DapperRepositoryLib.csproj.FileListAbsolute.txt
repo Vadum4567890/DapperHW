@@ -1,0 +1,9 @@
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\bin\Debug\DapperRepositoryLib.dll
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\bin\Debug\DapperRepositoryLib.pdb
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\bin\Debug\Dapper.dll
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\bin\Debug\Dapper.xml
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\obj\Debug\DapperRepositoryLib.csprojAssemblyReference.cache
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\obj\Debug\DapperRepositoryLib.csproj.CoreCompileInputs.cache
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\obj\Debug\DapperRepositoryLib.csproj.CopyComplete
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\obj\Debug\DapperRepositoryLib.dll
+D:\VS_Projects\spu011Dapper\DapperRepositoryLib\obj\Debug\DapperRepositoryLib.pdb

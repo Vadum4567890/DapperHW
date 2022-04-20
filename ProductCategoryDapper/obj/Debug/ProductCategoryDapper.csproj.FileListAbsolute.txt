@@ -1,0 +1,10 @@
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\bin\Debug\ProductCategoryDapper.exe.config
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\bin\Debug\ProductCategoryDapper.exe
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\bin\Debug\ProductCategoryDapper.pdb
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\bin\Debug\Dapper.dll
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\bin\Debug\Dapper.xml
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\obj\Debug\ProductCategoryDapper.csprojAssemblyReference.cache
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\obj\Debug\ProductCategoryDapper.csproj.CoreCompileInputs.cache
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\obj\Debug\ProductCategoryDapper.csproj.CopyComplete
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\obj\Debug\ProductCategoryDapper.exe
+D:\VS_Projects\spu011Dapper\ProductCategoryDapper\obj\Debug\ProductCategoryDapper.pdb

@@ -1,0 +1,4 @@
+if not exists(select * from sysobjects where name='Product')
+begin
+create table Product(id int primary key identity, title varchar(20), price float)
+end
